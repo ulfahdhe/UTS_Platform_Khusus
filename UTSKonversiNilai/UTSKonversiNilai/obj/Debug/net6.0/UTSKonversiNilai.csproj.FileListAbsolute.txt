@@ -1,0 +1,15 @@
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\bin\Debug\net6.0\UTSKonversiNilai.exe
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\bin\Debug\net6.0\UTSKonversiNilai.deps.json
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\bin\Debug\net6.0\UTSKonversiNilai.runtimeconfig.json
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\bin\Debug\net6.0\UTSKonversiNilai.dll
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\bin\Debug\net6.0\UTSKonversiNilai.pdb
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.csproj.AssemblyReference.cache
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.AssemblyInfoInputs.cache
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.AssemblyInfo.cs
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.csproj.CoreCompileInputs.cache
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.dll
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\refint\UTSKonversiNilai.dll
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.pdb
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\UTSKonversiNilai.genruntimeconfig.cache
+C:\Users\PC16\Downloads\UTSKonversiNilai\UTSKonversiNilai\obj\Debug\net6.0\ref\UTSKonversiNilai.dll
