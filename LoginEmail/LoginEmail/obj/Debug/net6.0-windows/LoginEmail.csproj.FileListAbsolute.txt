@@ -1,0 +1,17 @@
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\bin\Debug\net6.0-windows\LoginEmail.exe
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\bin\Debug\net6.0-windows\LoginEmail.deps.json
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\bin\Debug\net6.0-windows\LoginEmail.runtimeconfig.json
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\bin\Debug\net6.0-windows\LoginEmail.dll
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\bin\Debug\net6.0-windows\LoginEmail.pdb
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.csproj.AssemblyReference.cache
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.Form1.resources
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.csproj.GenerateResource.cache
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.AssemblyInfoInputs.cache
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.AssemblyInfo.cs
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.csproj.CoreCompileInputs.cache
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.dll
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\refint\LoginEmail.dll
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.pdb
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\LoginEmail.genruntimeconfig.cache
+C:\Users\PC16\Downloads\LoginEmail\LoginEmail\obj\Debug\net6.0-windows\ref\LoginEmail.dll
